@@ -9,7 +9,9 @@ In addition, while scrolling through the page the color of section being viewed 
 
 # Demo-Preview
 
+![image](https://user-images.githubusercontent.com/82758753/134145138-7627fd4c-b3d5-4de1-86ad-e3fcda6e4675.png)
 
+![image](https://user-images.githubusercontent.com/82758753/134144627-cb9cea84-ae58-4445-b37c-7ee059886e6a.png)
 
 # Table of contents
 
