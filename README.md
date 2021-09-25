@@ -43,6 +43,9 @@ The most of development work has been done in 'js/app.js' file and some in 'css/
 Each feature in the application have a function with clear name indicates it and related event listener. 
 For example, build navbar items from sections have the function called 'buildNav()' and event listener in the bottom of file.
 In styles file the active class for sections 'active-section' has been modified and the active class for  navbar links has been added with name 'active-link'.
+I referenced to the following MDN links:
+https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
+https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
 # Footer
