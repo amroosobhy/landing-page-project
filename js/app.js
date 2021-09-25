@@ -121,7 +121,8 @@ function scrollToSection(clickedItem){
         
     })
     
-    targetSection.scrollIntoView();
+    //scroll smoothly to the section 
+    targetSection.scrollIntoView({behavior: "smooth"});
 }
 
 /**
